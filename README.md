@@ -28,4 +28,19 @@ High quality images website: https://unsplash.com
 
 Tips: 
 - You can add background images using CSS 
+- Order matters
+
+### CSS Selectors:
+
+class is a property of CSS tags
+
+Difference between id and class? 
+- id unique to one tag, while class can be used for multiple tags
+
+https://www.w3schools.com/cssref/css_selectors.asp
+
+#### What seletors win out in the cascade depends on:
+-Specificity - You can use a specifity calculator https://specificity.keegan.st/
+-Importance !important tag
+-Source Order - The order of css files linked to HTML file 
 
