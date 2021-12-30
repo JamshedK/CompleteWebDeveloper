@@ -59,7 +59,8 @@ https://www.w3schools.com/css/css_boxmodel.asp
 https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
 
 #### CSS layouts, you can use Flexbox: 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ <br>
+Learning Flexbox with flexbox froggy: http://flexboxfroggy.com/
 
 HTML file: https://github.com/JamshedK/CompleteWebDeveloper/blob/main/Files/flexbox.html <br>
 CSS file: https://github.com/JamshedK/CompleteWebDeveloper/blob/main/Files/flexbox-style.css <br>
@@ -70,3 +71,16 @@ https://www.w3schools.com/cssref/css3_browsersupport.asp
 
 Use this website to see which CSS properties are supported by which browsers <br>
 https://caniuse.com/
+
+Transitions and Transforms: https://thoughtbot.com/blog/transitions-and-transforms#css-syntax-examples-for-transition-property
+``` CSS
+img{
+	transition: 1s all;
+}
+img: hover{
+	transform: scale(1.1);
+}
+```
+<hr>
+
+### Bootstrap
