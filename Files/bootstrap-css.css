@@ -1,3 +1,8 @@
 .g-3{
+	width: 700px;
 	margin: 0 auto;
+	margin-top: 100px;
+}
+.btn-outline-success:hover{
+	background-color: blue;
 }
