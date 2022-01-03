@@ -89,5 +89,17 @@ CSS: https://github.com/JamshedK/CompleteWebDeveloper/blob/main/Files/Robot/styl
 
 ### Bootstrap - https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
-HTML: https://github.com/JamshedK/CompleteWebDeveloper/blob/main/Files/bootstrap.html
+HTML: https://github.com/JamshedK/CompleteWebDeveloper/blob/main/Files/bootstrap.html <br>
 CSS: https://github.com/JamshedK/CompleteWebDeveloper/blob/main/Files/bootstrap-css.css
+
+Note: 
+- You can access Bootstrap CSS and Javascript files using a Content Delivery Network: https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+
+### Startup Landing page: https://jamshedk.github.io/Startup-landing-page/
+
+Github Repo Link: https://github.com/JamshedK/Startup-landing-page
+
+HTML File: https://github.com/JamshedK/Startup-landing-page/blob/main/index.html  <br>
+CSS File: https://github.com/JamshedK/Startup-landing-page/blob/main/style.css <br>
+
+
