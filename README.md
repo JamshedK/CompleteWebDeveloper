@@ -102,4 +102,8 @@ Github Repo Link: https://github.com/JamshedK/Startup-landing-page
 HTML File: https://github.com/JamshedK/Startup-landing-page/blob/main/index.html  <br>
 CSS File: https://github.com/JamshedK/Startup-landing-page/blob/main/style.css <br>
 
+### Animate CSS: Library for making animations <br>
+https://animate.style/
+
+
 
