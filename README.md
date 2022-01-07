@@ -105,5 +105,9 @@ CSS File: https://github.com/JamshedK/Startup-landing-page/blob/main/style.css <
 ### Animate CSS: Library for making animations <br>
 https://animate.style/
 
+### Website templates for UI <br>
+https://www.creative-tim.com/templates/ui-kit
+
+Free templates in Resources page of Andrei's website: https://zerotomastery.io/resources/
 
 
